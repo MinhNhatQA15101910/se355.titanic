@@ -59,7 +59,6 @@ param_grid = {
         7,
         8,
         9,
-        10,
     ],
     "classifier__weights": ["uniform", "distance"],
     "classifier__metric": ["euclidean", "manhattan"],
